@@ -1,4 +1,4 @@
-## Hello everybody 👋
+# Hello everybody 👋
 
 <p align="left">
   <a href="https://t.me/Endro_420" target="_blank">
@@ -12,7 +12,10 @@
   </a>
 </p>
 
+---
+
 ### 📊 My stats:
 
 ![KASTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endropr&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=radical)
