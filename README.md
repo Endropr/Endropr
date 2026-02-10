@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Hi there 👋
 <p align="left">
   <a href="ТВОЯ_ССЫЛКА_НА_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
