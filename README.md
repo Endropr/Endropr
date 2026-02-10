@@ -14,8 +14,8 @@
 
 ---
 
-### 📊 My stats:
+### 📊 GitHub Activity:
 
-![KASTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endropr&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Endropr&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=radical)
+[![KASTA's Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
