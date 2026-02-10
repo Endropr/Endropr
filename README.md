@@ -10,10 +10,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<!--
 ### 📊 Моя статистика:
 
 ![KASTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endropr&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=radical)
+<!--
 -->
