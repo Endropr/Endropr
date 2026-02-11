@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexander Busygin 
+#  Hi, I'm Alexander Busygin 
 
 I'm a 3rd-year student specializing in **Information Systems and Programming**. After 2 years of Frontend experience, I'm now focusing on mastering **Go** to make it my primary language for backend development.
 
