@@ -9,7 +9,8 @@ I'm a 3rd-year student specializing in **Information Systems and Programming**. 
 | 🔥 Current Streak | 💻 Top Languages |
 | :---: | :---: |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Endropr&theme=default) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=default) |
-
+<details>
+<summary><b>🔍 More stuff about me</b></summary>
 ---
 
 ### 🛠 Technical Stack
