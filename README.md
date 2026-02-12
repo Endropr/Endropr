@@ -41,4 +41,4 @@ I'm a 3rd-year student specializing in **Information Systems and Programming**. 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
- 
+  
