@@ -15,16 +15,17 @@ I'm a 3rd-year student specializing in **Information Systems and Programming**. 
 
 ### 🛠 Technical Stack
 
-* **Backend:** Golang (Learning REST APIs & Concurrency)
-* **Frontend:** JavaScript, HTML5, CSS3, React
-* **Tools:** Git, Docker, Linux
+* **Backend:** Go (Golang), REST API, GORM / SQLX, PostgreSQL.
+* **AI Integration:** OpenAI API, Prompt Engineering (LLM integration).
+* **Frontend (Foundation):** JavaScript, React, HTML5, CSS3.
+* **Tools & Infra:** Git, Docker, Linux, SQL Migrations.
 
 ---
 
 ### 📚 Currently Learning:
-* Advanced **Concurrency** patterns in Go.
-* Building microservices with **gRPC**.
-* Deep dive into **PostgreSQL** optimization.
+* **Advanced Go:** Concurrency patterns (Goroutines, Channels), Context package.
+* **Microservices:** Building scalable systems with gRPC and Protobuf.
+* **System Design:** Deep dive into PostgreSQL optimization and database indexing.
 
 ---
   
