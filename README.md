@@ -1,6 +1,19 @@
-#  Hi, I'm Alexander Busygin 
+# Alexander Busygin | Go Backend Developer 🚀
 
-I'm a 3rd-year student specializing in **Information Systems and Programming**. After 2 years of Frontend experience, I'm now focusing on mastering **Go** to make it my primary language for backend development.
+<p align="left">
+  <a href="https://t.me/Endro_420" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.linkedin.com/in/endro-presents-291b853ab/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:endropresents5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+  
+
+I'm a 3rd-year Information Systems student, focusing on building high-performance backend systems with **Go**. Transitioned from Frontend (2 years experience) to master the full lifecycle of modern web applications
 
 ---
 
@@ -9,38 +22,22 @@ I'm a 3rd-year student specializing in **Information Systems and Programming**. 
 | 🔥 Current Streak | 💻 Top Languages |
 | :---: | :---: |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Endropr&theme=default) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=default) |
-<details>
-<summary><b>🔍 More stuff about me</b></summary>
+
 ---
+
 
 ### 🛠 Technical Stack
 
-* **Backend:** Go (Golang), REST API, GORM / SQLX, PostgreSQL.
-* **AI Integration:** OpenAI API, Prompt Engineering (LLM integration).
-* **Frontend (Foundation):** JavaScript, React, HTML5, CSS3.
-* **Tools & Infra:** Git, Docker, Linux, SQL Migrations.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend & AI** | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/GORM-blue?style=for-the-badge" height="30" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="30" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" /> |
+| **Tools & Infra** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="30" /> |
 
 ---
 
-### 📚 Currently Learning:
-* **Advanced Go:** Concurrency patterns (Goroutines, Channels), Context package.
-* **Microservices:** Building scalable systems with gRPC and Protobuf.
-* **System Design:** Deep dive into PostgreSQL optimization and database indexing.
+### 📚 Currently Learning & Improving
+* **Advanced Go:** Mastering `Concurrency patterns` (Goroutines, Channels) and the `Context` package.
+* **Microservices:** Implementing scalable communication with `gRPC` and `Protocol Buffers`.
+* **System Design:** Deep dive into `PostgreSQL` optimization, indexing, and high-load architectural patterns.
 
----
-  
-
-### 📫 How to reach me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/endro-presents-291b853ab/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://t.me/Endro_420" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:endropresents5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-  
