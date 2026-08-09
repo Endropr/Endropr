@@ -22,9 +22,8 @@ and robust server-side solutions using **Go**.
 
 ### 📊 GitHub Activity:
 
-|  Current Streak |  Top Languages |
-| :---: | :---: |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Endropr&theme=default) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=default) |
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=default) 
 
 ---
 
