@@ -20,13 +20,6 @@ and robust server-side solutions using **Go**.
 
 ---
 
-### 📊 GitHub Activity:
-
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Endropr&layout=compact&theme=default) 
-
----
-
 ### 🛠 Technical Stack
 
 | Category | Tools & Technologies |
