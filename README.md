@@ -1,4 +1,4 @@
-# Alexander Busygin | Full-Stack Developer (Go · PHP)
+# Alexander Busygin | Full-Stack Developer 
 
 <p align="left">
   <a href="https://t.me/Endro_420" target="_blank">
