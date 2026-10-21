@@ -1,12 +1,14 @@
 # Alexander Busygin | Full-Stack Developer
 
+[![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://github.com/Endropr/CV/blob/main/Aleksandr_Busygin_CV.pdf)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EndroPresents)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/endro-presents-291b853ab)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:endopresents5@gmail.com)
 
-Full-stack developer based in Batumi. I build and ship products end to end: interface, API, and the server they run on.
-Go and PHP on the backend, React on the frontend.
+Full-stack developer based in Batumi.  
+I build and ship products end-to-end: frontend, backend, and infrastructure.
 
+**Main stack:** Go · React · PHP · PostgreSQL · Docker · Cloudflare
 ---
 
 ## 🛠 Technical Stack
