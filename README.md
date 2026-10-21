@@ -22,26 +22,30 @@ I build and ship products end-to-end: frontend, backend, and infrastructure.
 
 ## 🚀 Featured Projects
 
-**[Corvin VPN](https://github.com/Endropr/Corvin-VPN)**
-Production client-side system for a commercial VPN service: landing, tariff pages, payment integration and automatic key delivery.
+**[Corvin VPN](https://github.com/Endropr/Corvin-VPN)**  
+Production client system for a commercial VPN: landing, tariffs, payments and automatic key delivery.  
 `PHP · Vanilla JS · HTML/CSS`
 
-**[AI Mentor Bot](https://github.com/Endropr/AI-Mentor-bot)**
-Telegram bot in Go for programming mentorship. OpenAI, persistent PostgreSQL, clean service layout.
+**[AI Mentor Bot](https://github.com/Endropr/AI-Mentor-bot)**  
+Telegram bot for programming mentorship. OpenAI integration, PostgreSQL, clean service structure.  
 `Go · PostgreSQL · OpenAI`
 
-**[Captcha microservice](https://github.com/Endropr/Captcha-microservice)**
-CAPTCHA service in Go with custom image distortion and Redis-backed sessions.
+**[Captcha Microservice](https://github.com/Endropr/Captcha-microservice)**  
+CAPTCHA service with custom image distortion and Redis sessions.  
 `Go · Redis`
 
-**[Rent-car API](https://github.com/Endropr/Rent-car-PET)**
-Car rental REST API in Go with separate layers for models, storage and logic.
+**[Rent-car API](https://github.com/Endropr/Rent-car-PET)**  
+Car rental REST API with layered architecture (models, storage, business logic).  
 `Go · REST`
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Go: goroutines, channels, context
-- PostgreSQL: indexing and query plans
-- System design for services that actually ship
+- Advanced Go (concurrency, context, patterns)
+- PostgreSQL performance (indexes, query plans)
+- System design for real production services
+
+---
+
+📫 **Contact:** [Telegram](https://t.me/EndroPresents) · [Email](mailto:endopresents5@gmail.com)
